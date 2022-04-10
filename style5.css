@@ -1,0 +1,50 @@
+
+.TT {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    text-align: center;
+    
+}
+
+/* ห้อง */
+.room{
+    margin: 2% 10%;
+    width: 80%;
+}
+
+.room .detail{
+    margin: auto;
+}
+
+table {
+    border-spacing: 0px;
+    table-layout: fixed;
+    margin-left:auto;
+    margin-right:auto;
+    border: #3498db;
+    
+}
+
+/* word */
+.word-next-line{
+    word-break: break-all;
+}
+
+.size{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+
+.size-2{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+
+
+
+
+
+
